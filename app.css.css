@@ -1,0 +1,157 @@
+html {
+    font-family: 'Exo 2', sans-serif;
+    font-size:20px;
+    
+}
+
+header {
+    
+  
+    
+    background-image:linear-gradient(rgb(76, 25, 76, 0.8),rgb(0, 0, 0, 0.9)),url(pic/banner.jpg);
+
+    height:500px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    
+
+  
+  
+   
+}
+
+h1{
+
+    color:aliceblue;
+    text-transform: uppercase;
+    letter-spacing:1px;
+    word-spacing: 4px;
+    padding:20px;
+    padding-top:20px;
+}
+
+.nav {
+    
+    background-color:darkblue;
+ 
+}
+
+
+.topnav {
+    
+   
+    list-style-type:none;
+    float:right;
+  
+    
+  
+}
+
+li {
+   
+   
+   display:inline-block;
+   margin:30px 20px 5px 0px;
+   font-size:110%;
+   
+ 
+}
+
+.con{
+    
+    margin-right:50px;
+}
+
+
+.calltoaction {
+    position:absolute;
+    top:30%;
+    left:10%;
+    
+}
+
+a {
+    text-decoration:none;
+    color:aliceblue;
+    padding-bottom: 5px;
+}
+
+a:hover {
+    border-bottom: 2px solid white;
+   
+}
+
+.bot {
+    padding:10px 30px;
+    border: 1px solid #FC9F35;
+    border-radius: 20px;
+
+    background: #FC9F35;
+    color:#191919;
+    margin-top:20px;
+    margin-left: 150px;
+    
+}
+
+.bot:hover {
+    border: 1px solid #F76565;
+    border-radius: 20px;
+    background: #F76565;
+    color: #2B061E;
+
+}
+
+img {
+    
+    position:absolute;
+    top:20px;
+    left:15px;
+    width: 150px;
+    height:100px;
+}
+
+
+
+/*main content*/
+
+.service {
+   
+
+    margin-top:20px;
+    width:80%;
+    margin-left:10%;
+    display: flex;
+
+ 
+}
+
+
+h3{
+    margin-left:17%;
+}
+
+
+
+
+
+
+.material-icons.md-48 {
+    
+    
+    margin-left: 30%;
+    font-size: 48px;
+    letter-spacing: 2px;
+    
+}
+
+
+
+
+.mehr {
+    letter-spacing: 7px;
+}
+
+.box {
+    width: 80%;
+}
